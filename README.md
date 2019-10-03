@@ -8,6 +8,7 @@ You may want to make the .sh file executable with the command: "chmod +x web-dev
 All files are linked already, and has some basic code inside them.
 
 The folder structructure goes like this:
+
 . myWeb  
 ├── _assets  
 ├── main.css  
