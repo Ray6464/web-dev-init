@@ -1,5 +1,4 @@
-mkdir myWeb && cd myWeb
-mkdir assets
+mkdir myWeb && cd myWeb && mkdir assets
 echo ^<!DOCTYPE html^> >> index.html
 echo ^<html^> >> index.html
 echo ^<title^>Our Website Title^</title^> >> index.html
